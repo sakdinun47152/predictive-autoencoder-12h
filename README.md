@@ -4,5 +4,5 @@ How to Install
 1. Clone this repository
 2. Run command: pip install -r requirements.txt
 
-To start the program.
-Run command: python main.py
+To start the program.<br>
+Run command: python predict.py
