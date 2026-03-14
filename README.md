@@ -5,4 +5,9 @@ How to Install
 2. Run command: pip install -r requirements.txt
 
 To start the program.<br>
-Run command: python predict.py
+Run command: python predict.py<br>
+<br>
+To create model.<br>
+Run command: python train.py<br>
+<br>
+*** Don't forget to change the seed ***
